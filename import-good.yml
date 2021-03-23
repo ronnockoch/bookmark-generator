@@ -1,0 +1,61 @@
+---
+- folder: Arts
+  bookmarks:
+    - name: Test Arts - top
+      url: https://www.laurentian.ca/faculty/arts/
+    - folder: Arts - FN
+      bookmarks:
+      - name: Arts-in FN
+        url: https://www.laurentian.ca/faculty/arts/
+    - folder: Arts - Sheets
+      bookmarks:
+      - name: Arts-in Sheets
+        url: https://www.laurentian.ca/faculty/arts/
+- folder: Health
+  bookmarks:
+    - name: Test Health - top
+      url: https://www.laurentian.ca/faculty/health/
+    - folder: Health - FN
+      bookmarks:
+      - name: Health-in FN
+        url: https://www.laurentian.ca/faculty/health/
+    - folder: Health - Sheets
+      bookmarks:
+      - name: Health-in Sheets
+        url: https://www.laurentian.ca/faculty/health/
+- folder: management
+  bookmarks:
+    - name: Test management - top
+      url: https://www.laurentian.ca/faculty/management/
+    - folder: management - FN
+      bookmarks:
+      - name: management-in FN
+        url: https://www.laurentian.ca/faculty/management/
+    - folder: management - Sheets
+      bookmarks:
+      - name: management-in Sheets
+        url: https://www.laurentian.ca/faculty/management/
+- folder: Education
+  bookmarks:
+    - name: Test Education - top
+      url: https://www.laurentian.ca/faculty/Education/
+    - folder: Education - FN
+      bookmarks:
+      - name: Education-in FN
+        url: https://www.laurentian.ca/faculty/Education/
+    - folder: Education - Sheets
+      bookmarks:
+      - name: Education-in Sheets
+        url: https://www.laurentian.ca/faculty/Education/
+- folder: SEA
+  bookmarks:
+    - name: Test SEA - top
+      url: https://www.laurentian.ca/faculty/SEA/
+    - folder: SEA - FN
+      bookmarks:
+      - name: SEA-in FN
+        url: https://www.laurentian.ca/faculty/SEA/
+    - folder: SEA - Sheets
+      bookmarks:
+      - name: SEA-in Sheets
+        url: https://www.laurentian.ca/faculty/SEA/

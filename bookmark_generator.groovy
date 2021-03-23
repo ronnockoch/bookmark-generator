@@ -74,7 +74,7 @@ def generateBookmarks(nodes, level, out) {
 	def orderCounter = 1
 	out.write("${indent}<DL><p>\n")
 	nodes.each { node ->
-		
+
 		// counter
 		def counter = ''
 		if (nrDigits > 0) {
