@@ -47,14 +47,9 @@ SEPARATOR_NAME = u'---'
 
 tag_all = args.tag
 
-"""
 if args.output:
 	out = open(args.output, "w")
-"""
-
-if args.output:
-	out = open(args.output, "w")
-
+	
 # write bookmark file header
 out.write('''<!DOCTYPE NETSCAPE-Bookmark-file-1>
 <!-- This is an automatically generated file.
